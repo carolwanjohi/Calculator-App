@@ -32,9 +32,7 @@ No known bugs
 ## Technologies Used
 
 - HTML
-- CSS
 - JAVASCRIPT
-- JQUERY
 - npm pakages
 
 ### License
